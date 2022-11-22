@@ -23,7 +23,7 @@ MarkupSafe==1.1
 matplotlib==2.2.3
 migrate3==0.3.11
 numpy==1.21.2
-Pillow==8.3.2
+Pillow==9.3.0
 pycparser==2.18
 pyFirmata==1.0.3
 pyOpenSSL==18.0.0
